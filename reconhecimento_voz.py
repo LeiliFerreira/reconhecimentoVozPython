@@ -11,22 +11,3 @@ with sr.Microphone() as microfone:  #Caso queira escolher um microfone específi
     print("Você disse: {}".format(texto)) #Escreve na tela o que o usuário falou
 
 #OBS: A Estrutura "with" inicializa a função do microfone e quando sai dessa "estrutura" ele fecha o microfone automaticamente.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
